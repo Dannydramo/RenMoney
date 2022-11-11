@@ -1071,6 +1071,9 @@ body {
     .transfer_img {
         width: 100%;
     }
+    .transfer_img img{
+        margin-bottom: -2em;
+    }
 
     .transfer_text {
         width: 100%;
