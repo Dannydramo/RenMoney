@@ -296,13 +296,11 @@ body {
     font-size: 2.5rem;
     text-align: center;
     color: #43407B;
-
 }
 
 .container1_bg p {
     font-size: 1.2rem;
     color: #43407BE0;
-
 }
 
 .first_hr {
@@ -1025,7 +1023,7 @@ body {
     .hero1 {
         position: absolute;
         top: 2em;
-        display: block;
+        display: none;
         right: 0em;
         transform: rotate(80deg);
         height: 300px;
